@@ -32,6 +32,9 @@
 本系统的主要功能
 （重要性有1，2，3等级，依次降低）
 
+|exampl|
+
+：：|example|： http://m.qpic.cn/psb?/V13TVzVU3hBV8n/Z.14LCuL43aEVgZADOml*E3VfeSt1qrt8lHrQXPZD*Y!/b/dMEAAAAAAAAA&bo=9ABaAQAAAAADF50!&rf=viewer_4&t=5
 
 2.3非功能性需求
 =================
