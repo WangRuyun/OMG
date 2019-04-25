@@ -34,7 +34,7 @@
 
 |exampl|
 
-：：|example|： http://m.qpic.cn/psb?/V13TVzVU3hBV8n/Z.14LCuL43aEVgZADOml*E3VfeSt1qrt8lHrQXPZD*Y!/b/dMEAAAAAAAAA&bo=9ABaAQAAAAADF50!&rf=viewer_4&t=5
+.. |example| image:: http://m.qpic.cn/psb?/V13TVzVU3hBV8n/Z.14LCuL43aEVgZADOml*E3VfeSt1qrt8lHrQXPZD*Y!/b/dMEAAAAAAAAA&bo=9ABaAQAAAAADF50!&rf=viewer_4&t=5
 
 2.3非功能性需求
 =================
