@@ -29,7 +29,8 @@
 2.2功能性需求
 ==============
 
-|p1||p2|
+|p1|
+|p2|
 
 .. |p1| image:: http://m.qpic.cn/psb?/V13TVzVU3hBV8n/YBs7V2e.h9HqMVnncmU1IwcRTCkEsGvDdJCJOh0m5vg!/b/dL8AAAAAAAAA&bo=sQESAgAAAAADB4I!&rf=viewer_4&t=5
 
