@@ -29,6 +29,13 @@
 2.2功能性需求
 ==============
 
+|p1||p2|
+
+.. |p1| image:: http://m.qpic.cn/psb?/V13TVzVU3hBV8n/YBs7V2e.h9HqMVnncmU1IwcRTCkEsGvDdJCJOh0m5vg!/b/dL8AAAAAAAAA&bo=sQESAgAAAAADB4I!&rf=viewer_4&t=5
+
+
+.. |p2| image:: http://m.qpic.cn/psb?/V13TVzVU3hBV8n/ZsMUYpnZQi1N*IQ35Z4sDiTBoBxIbbamKCkpILobh5g!/b/dL8AAAAAAAAA&bo=sgGyAAAAAAADFzM!&rf=viewer_4&t=5
+
 本系统的主要功能
 （重要性有1，2，3等级，依次降低）
 
